@@ -1,0 +1,6 @@
+site_name: FastUI
+theme:
+  name: material
+plugins:
+- mkdocstrings:
+    default_handler: typescript
